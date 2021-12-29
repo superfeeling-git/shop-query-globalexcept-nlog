@@ -1,0 +1,13 @@
+E:\Teaching\Solution2\Shop.Dto\bin\Debug\Shop.Dto.dll
+E:\Teaching\Solution2\Shop.Dto\bin\Debug\Shop.Dto.pdb
+E:\Teaching\Solution2\Shop.Dto\bin\Debug\Shop.Model.dll
+E:\Teaching\Solution2\Shop.Dto\bin\Debug\EntityFramework.dll
+E:\Teaching\Solution2\Shop.Dto\bin\Debug\Shop.Model.pdb
+E:\Teaching\Solution2\Shop.Dto\bin\Debug\Shop.Model.dll.config
+E:\Teaching\Solution2\Shop.Dto\bin\Debug\EntityFramework.xml
+E:\Teaching\Solution2\Shop.Dto\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\Teaching\Solution2\Shop.Dto\obj\Debug\Shop.Dto.csproj.AssemblyReference.cache
+E:\Teaching\Solution2\Shop.Dto\obj\Debug\Shop.Dto.csproj.CoreCompileInputs.cache
+E:\Teaching\Solution2\Shop.Dto\obj\Debug\Shop.Dto.csproj.CopyComplete
+E:\Teaching\Solution2\Shop.Dto\obj\Debug\Shop.Dto.dll
+E:\Teaching\Solution2\Shop.Dto\obj\Debug\Shop.Dto.pdb

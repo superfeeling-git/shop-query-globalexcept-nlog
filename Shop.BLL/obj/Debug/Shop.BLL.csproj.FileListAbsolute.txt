@@ -1,0 +1,5 @@
+E:\Teaching\Solution2\Shop.BLL\bin\Debug\Shop.BLL.dll
+E:\Teaching\Solution2\Shop.BLL\bin\Debug\Shop.BLL.pdb
+E:\Teaching\Solution2\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+E:\Teaching\Solution2\Shop.BLL\obj\Debug\Shop.BLL.dll
+E:\Teaching\Solution2\Shop.BLL\obj\Debug\Shop.BLL.pdb
